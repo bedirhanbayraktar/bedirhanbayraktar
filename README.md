@@ -28,7 +28,9 @@ Here are some ideas to get you started:
 
 get touch my accounts 
 
-[![LinkedIn Badge](https://img.shields.io/badge/Yusuf%20Onaran%20-follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](linkedin.com/in/bedirhan-bayraktar-b0b3a61b9)
+<a href="https://www.linkedin.com/shareArticle?mini=true&url=http://www.example.com/page.php&title=Başlık&summary=ozet&source=kaynak"><span class="fa fa-linkedin"></span></a>
+
+https://www.linkedin.com/shareArticle?mini=true&url={articleUrl}&title={articleTitle}&summary={articleSummary}&source={articleSource}
 <br/>
 [![](https://img.shields.io/badge/VISIT%20MY%20WEBSITE-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://www.yusufonaran.me/)
 
