@@ -24,15 +24,6 @@ I'm a Jr. Full Stack Developer 💻<br>
 
 Here are some ideas to get you started:
 
-
-### 📌 GitHub Stats 📈 & Top Languages 🌍
-
-<p float="center">
-  <img  src="https://github-readme-stats.vercel.app/api?username=onaranyusuf&show_icons=true&theme=dark&count_private=true&hide=contribs,issue" /> 
-  <br/>
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=onaranyusuf&layout=compact&theme=dark" />
-</p>
-
 ### 📫 How to reach me 👀
 
 get touch my accounts 
