@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 get touch my accounts 
 
-[![LinkedIn Badge](https://img.shields.io/badge/Yusuf%20Onaran%20-follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/yusufonaran/)
+[![LinkedIn Badge](https://img.shields.io/badge/Yusuf%20Onaran%20-follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](linkedin.com/in/bedirhan-bayraktar-b0b3a61b9)
 <br/>
 [![](https://img.shields.io/badge/VISIT%20MY%20WEBSITE-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://www.yusufonaran.me/)
 
@@ -62,5 +62,3 @@ get touch my accounts
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/keras.png" alt="Keras" height="35" />   
 </div>
 
-#### Total Views 👀
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=onaranyusuf&label=Profile%20views&color=0e75b6&style=flat" alt="onaranyusuf" /> </p>
